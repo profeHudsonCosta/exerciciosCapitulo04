@@ -4,8 +4,6 @@ dist = {1:{2:1, 3:2, 4:3, 5:4},
         4:{1:3, 5:1, 3:2},
         5:{1:4, 4:1, 2:3}}
 
-print("A distância entre 5 e 4 é ", dist[5][4])
-
 somaDist = 0
 flag = 1
 while flag != -1:
